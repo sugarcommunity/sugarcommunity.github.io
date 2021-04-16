@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sugarcommunity.github.io" resolutions="1x" timestamp="1618588734795">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sugarcommunity.github.io" resolutions="1x" timestamp="1618589152450">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="3865298224" ref="index"/>
+    <file name="index.css" crc="348604576" ref="index"/>
     <file name="____.css" crc="3810360204" ref="測第二版"/>
   </folder>
   <folder name="scripts">
@@ -12,6 +12,6 @@
     <file name="jquery.watch.js" crc="99325471" ref="index:測第二版"/>
     <file name="require.js" crc="4157109226" ref="index:測第二版"/>
   </folder>
-  <file name="index.html" crc="4131524953" seo="true" mt="1618588554010" redirect="true"/>
+  <file name="index.html" crc="107580783" seo="true" mt="1618589134966" redirect="true"/>
   <file name="測第二版.html" crc="376158664" seo="true" mt="1618588575264" redirect="true"/>
 </manifest>
