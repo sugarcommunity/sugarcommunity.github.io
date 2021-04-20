@@ -1,16 +1,16 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sugarcommunity.github.io" resolutions="1x" timestamp="1618925750394">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sugarcommunity.github.io" resolutions="1x" timestamp="1618927589796">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="297809864" ref="index"/>
-    <file name="_________1.css" crc="508502512" ref="被包養者的禁止行為"/>
+    <file name="_________1.css" crc="242204205" ref="被包養者的禁止行為"/>
     <file name="____________.css" crc="3815890099" ref="加入包養群組前的注意事項"/>
     <file name="______-copy-copy-2.css" crc="3880990014" ref="被包養者守則-copy-copy-2"/>
-    <file name="________.css" crc="3895484727" ref="包養者的禁止行為"/>
+    <file name="________.css" crc="144479612" ref="包養者的禁止行為"/>
     <file name="________________.css" crc="455778305" ref="與被包養者第一次見面時的注意事項"/>
     <file name="__________.css" crc="3853319674" ref="如何更快的找到包養者"/>
     <file name="______________.css" crc="65661854" ref="第一次使用要如何聯繫被包養者"/>
     <file name="_______________.css" crc="41692922" ref="與包養者第一次見面時的注意事項"/>
-    <file name="___________-_________.css" crc="85487598" ref="成為被包養者的必備條件-與工作內容詳細說明"/>
+    <file name="___________-_________.css" crc="383230358" ref="成為被包養者的必備條件-與工作內容詳細說明"/>
     <file name="____________1.css" crc="369498210" ref="如何快速包養想包養的對象"/>
     <file name="___________1.css" crc="77265035" ref="如何維繫與包養者的關係"/>
     <file name="___________.css" crc="4058263653" ref="成為被包養者的必備條件"/>
@@ -18,7 +18,7 @@
     <file name="__________________.css" crc="261978670" ref="在這裡找包養者跟在其他地方找的差別是"/>
     <file name="_____________.css" crc="3855481343" ref="第一次使用要如何聯繫包養者"/>
     <file name="____________2.css" crc="376075874" ref="如何維繫與被包養者的關係"/>
-    <file name="_________.css" crc="530057459" ref="包養者群組使用說明"/>
+    <file name="_________.css" crc="4163941327" ref="包養者群組使用說明"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:包養者群組使用說明:加入包養群組前的注意事項:與被包養者第一次見面時的注意事項:第一次使用要如何聯繫被包養者:被包養者的禁止行為:包養者的禁止行為:成為被包養者的必備條件-與工作內容詳細說明:成為被包養者的必備條件:第一次使用要如何聯繫包養者:被包養者守則-copy-copy-2:如何更快的找到包養者:與包養者第一次見面時的注意事項:如何快速包養想包養的對象:這個包養群組跟其他市面上的包養網差在哪:在這裡找包養者跟在其他地方找的差別是:如何維繫與被包養者的關係:如何維繫與包養者的關係"/>
@@ -29,13 +29,13 @@
     <file name="require.js" crc="4157109226" ref="index:包養者群組使用說明:加入包養群組前的注意事項:與被包養者第一次見面時的注意事項:第一次使用要如何聯繫被包養者:被包養者的禁止行為:包養者的禁止行為:成為被包養者的必備條件-與工作內容詳細說明:成為被包養者的必備條件:第一次使用要如何聯繫包養者:被包養者守則-copy-copy-2:如何更快的找到包養者:與包養者第一次見面時的注意事項:如何快速包養想包養的對象:這個包養群組跟其他市面上的包養網差在哪:在這裡找包養者跟在其他地方找的差別是:如何維繫與被包養者的關係:如何維繫與包養者的關係"/>
   </folder>
   <file name="index.html" crc="4173332979" seo="true" mt="1618921623101" redirect="true"/>
-  <file name="包養者群組使用說明.html" crc="4035112190" seo="true" mt="1618924935306" redirect="true"/>
+  <file name="包養者群組使用說明.html" crc="492552444" seo="true" mt="1618926299627" redirect="true"/>
   <file name="加入包養群組前的注意事項.html" crc="4021484594" seo="true" mt="1618922562236" redirect="true"/>
   <file name="與被包養者第一次見面時的注意事項.html" crc="170930177" seo="true" mt="1618923764073" redirect="true"/>
   <file name="第一次使用要如何聯繫被包養者.html" crc="298181350" seo="true" mt="1618922672477" redirect="true"/>
-  <file name="被包養者的禁止行為.html" crc="345349305" seo="true" mt="1618848339951" redirect="true"/>
-  <file name="包養者的禁止行為.html" crc="63741994" seo="true" mt="1618924882572" redirect="true"/>
-  <file name="成為被包養者的必備條件-與工作內容詳細說明.html" crc="72943366" seo="true" mt="1618924845644" redirect="true"/>
+  <file name="被包養者的禁止行為.html" crc="4094474190" seo="true" mt="1618927508513" redirect="true"/>
+  <file name="包養者的禁止行為.html" crc="4090179832" seo="true" mt="1618927547309" redirect="true"/>
+  <file name="成為被包養者的必備條件-與工作內容詳細說明.html" crc="228194205" seo="true" mt="1618927020678" redirect="true"/>
   <file name="成為被包養者的必備條件.html" crc="4249135433" seo="true" mt="1618922531219" redirect="true"/>
   <file name="第一次使用要如何聯繫包養者.html" crc="3976123925" seo="true" mt="1618925225022" redirect="true"/>
   <file name="被包養者守則-copy-copy-2.html" crc="248902468" seo="true" mt="1618823593491" redirect="true"/>
