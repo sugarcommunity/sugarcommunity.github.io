@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sugarcommunity.github.io" resolutions="1x" timestamp="1619044473018">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sugarcommunity.github.io" resolutions="1x" timestamp="1619045041515">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="page14.css" crc="242204205" ref="page14"/>
@@ -25,9 +25,9 @@
     <file name="page3-copy.css" crc="4235315490" ref="page3-copy"/>
     <file name="page4-copy.css" crc="3923635447" ref="page4-copy"/>
     <file name="page8-copy.css" crc="4144642589" ref="page8-copy"/>
-    <file name="page6-copy.css" crc="4122734259" ref="page6-copy"/>
-    <file name="page5-copy.css" crc="494461236" ref="page5-copy"/>
-    <file name="page7-copy.css" crc="53950514" ref="page7-copy"/>
+    <file name="page6-copy.css" crc="434229064" ref="page6-copy"/>
+    <file name="page5-copy.css" crc="355184206" ref="page5-copy"/>
+    <file name="page7-copy.css" crc="96675806" ref="page7-copy"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:page1:page2:page5:page4:page14:page6:page10:page11:page12:paeg15:page13:page7:page17:page8:page16:smart-phone-version:page1-copy:page10-copy:page2-copy:page3:page3-copy:page4-copy:page5-copy:page6-copy:page7-copy:page8-copy"/>
@@ -60,8 +60,8 @@
   <file name="page3.html" crc="470145619" seo="true" mt="1619039997238" redirect="true"/>
   <file name="page3-copy.html" crc="365991481" seo="true" mt="1619044151529" redirect="true"/>
   <file name="page4-copy.html" crc="3958764446" seo="true" mt="1619044135056" redirect="true"/>
-  <file name="page5-copy.html" crc="174451750" seo="true" mt="1619044453122" redirect="true"/>
-  <file name="page6-copy.html" crc="4068542924" seo="true" mt="1619042562423" redirect="true"/>
-  <file name="page7-copy.html" crc="29783482" seo="true" mt="1619042566903" redirect="true"/>
+  <file name="page5-copy.html" crc="3775036286" seo="true" mt="1619044786276" redirect="true"/>
+  <file name="page6-copy.html" crc="3950621525" seo="true" mt="1619044865641" redirect="true"/>
+  <file name="page7-copy.html" crc="4137513767" seo="true" mt="1619045034813" redirect="true"/>
   <file name="page8-copy.html" crc="3993690605" seo="true" mt="1619042569747" redirect="true"/>
 </manifest>
