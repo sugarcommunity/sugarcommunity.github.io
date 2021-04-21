@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sugarcommunity.github.io" resolutions="1x" timestamp="1619042499205">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sugarcommunity.github.io" resolutions="1x" timestamp="1619043617227">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="page14.css" crc="242204205" ref="page14"/>
@@ -23,14 +23,19 @@
     <file name="page2-copy.css" crc="4155790221" ref="page2-copy"/>
     <file name="page3.css" crc="360834634" ref="page3"/>
     <file name="page3-copy.css" crc="10855585" ref="page3-copy"/>
+    <file name="page4-copy.css" crc="290915424" ref="page4-copy"/>
+    <file name="page8-copy.css" crc="4144642589" ref="page8-copy"/>
+    <file name="page6-copy.css" crc="4122734259" ref="page6-copy"/>
+    <file name="page5-copy.css" crc="52554747" ref="page5-copy"/>
+    <file name="page7-copy.css" crc="53950514" ref="page7-copy"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:page1:page2:page5:page4:page14:page6:page10:page11:page12:paeg15:page13:page7:page17:page8:page16:smart-phone-version:page1-copy:page10-copy:page2-copy:page3:page3-copy"/>
-    <file name="museutils.js" crc="3803043152" ref="index:page1:page2:page5:page4:page14:page6:page10:page11:page12:paeg15:page13:page7:page17:page8:page16:smart-phone-version:page1-copy:page10-copy:page2-copy:page3:page3-copy"/>
-    <file name="whatinput.js" crc="86476730" ref="index:page1:page2:page5:page4:page14:page6:page10:page11:page12:paeg15:page13:page7:page17:page8:page16:smart-phone-version:page1-copy:page10-copy:page2-copy:page3:page3-copy"/>
-    <file name="museconfig.js" crc="380897831" ref="index:page1:page2:page5:page4:page14:page6:page10:page11:page12:paeg15:page13:page7:page17:page8:page16:smart-phone-version:page1-copy:page10-copy:page2-copy:page3:page3-copy"/>
-    <file name="jquery.watch.js" crc="99325471" ref="index:page1:page2:page5:page4:page14:page6:page10:page11:page12:paeg15:page13:page7:page17:page8:page16:smart-phone-version:page1-copy:page10-copy:page2-copy:page3:page3-copy"/>
-    <file name="require.js" crc="4157109226" ref="index:page1:page2:page5:page4:page14:page6:page10:page11:page12:paeg15:page13:page7:page17:page8:page16:smart-phone-version:page1-copy:page10-copy:page2-copy:page3:page3-copy"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:page1:page2:page5:page4:page14:page6:page10:page11:page12:paeg15:page13:page7:page17:page8:page16:smart-phone-version:page1-copy:page10-copy:page2-copy:page3:page3-copy:page4-copy:page5-copy:page6-copy:page7-copy:page8-copy"/>
+    <file name="museutils.js" crc="3803043152" ref="index:page1:page2:page5:page4:page14:page6:page10:page11:page12:paeg15:page13:page7:page17:page8:page16:smart-phone-version:page1-copy:page10-copy:page2-copy:page3:page3-copy:page4-copy:page5-copy:page6-copy:page7-copy:page8-copy"/>
+    <file name="whatinput.js" crc="86476730" ref="index:page1:page2:page5:page4:page14:page6:page10:page11:page12:paeg15:page13:page7:page17:page8:page16:smart-phone-version:page1-copy:page10-copy:page2-copy:page3:page3-copy:page4-copy:page5-copy:page6-copy:page7-copy:page8-copy"/>
+    <file name="museconfig.js" crc="380897831" ref="index:page1:page2:page5:page4:page14:page6:page10:page11:page12:paeg15:page13:page7:page17:page8:page16:smart-phone-version:page1-copy:page10-copy:page2-copy:page3:page3-copy:page4-copy:page5-copy:page6-copy:page7-copy:page8-copy"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:page1:page2:page5:page4:page14:page6:page10:page11:page12:paeg15:page13:page7:page17:page8:page16:smart-phone-version:page1-copy:page10-copy:page2-copy:page3:page3-copy:page4-copy:page5-copy:page6-copy:page7-copy:page8-copy"/>
+    <file name="require.js" crc="4157109226" ref="index:page1:page2:page5:page4:page14:page6:page10:page11:page12:paeg15:page13:page7:page17:page8:page16:smart-phone-version:page1-copy:page10-copy:page2-copy:page3:page3-copy:page4-copy:page5-copy:page6-copy:page7-copy:page8-copy"/>
   </folder>
   <file name="index.html" crc="341777533" seo="true" mt="1618928014861" redirect="true"/>
   <file name="page1.html" crc="4112515570" seo="true" mt="1619040313270" redirect="true"/>
@@ -54,4 +59,9 @@
   <file name="page2-copy.html" crc="48528042" seo="true" mt="1619039766310" redirect="true"/>
   <file name="page3.html" crc="470145619" seo="true" mt="1619039997238" redirect="true"/>
   <file name="page3-copy.html" crc="4143688536" seo="true" mt="1619042453238" redirect="true"/>
+  <file name="page4-copy.html" crc="3857501322" seo="true" mt="1619043608548" redirect="true"/>
+  <file name="page5-copy.html" crc="3893314486" seo="true" mt="1619042558826" redirect="true"/>
+  <file name="page6-copy.html" crc="4068542924" seo="true" mt="1619042562423" redirect="true"/>
+  <file name="page7-copy.html" crc="29783482" seo="true" mt="1619042566903" redirect="true"/>
+  <file name="page8-copy.html" crc="3993690605" seo="true" mt="1619042569747" redirect="true"/>
 </manifest>
