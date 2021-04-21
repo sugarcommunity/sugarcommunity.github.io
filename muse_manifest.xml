@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sugarcommunity.github.io" resolutions="1x" timestamp="1618929013340">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sugarcommunity.github.io" resolutions="1x" timestamp="1619035965146">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="page14.css" crc="242204205" ref="page14"/>
@@ -14,7 +14,7 @@
     <file name="page11.css" crc="4058263653" ref="page11"/>
     <file name="page9.css" crc="3991378622" ref="page9"/>
     <file name="page17.css" crc="261978670" ref="page17"/>
-    <file name="index.css" crc="297809864" ref="index"/>
+    <file name="index.css" crc="227798241" ref="index"/>
     <file name="page12.css" crc="3855481343" ref="page12"/>
     <file name="page8.css" crc="376075874" ref="page8"/>
     <file name="page1.css" crc="4163941327" ref="page1"/>
@@ -27,7 +27,7 @@
     <file name="jquery.watch.js" crc="99325471" ref="index:page1:page2:page5:page4:page14:page6:page10:page11:page12:paeg15:page13:page7:page9:page17:page8:page16"/>
     <file name="require.js" crc="4157109226" ref="index:page1:page2:page5:page4:page14:page6:page10:page11:page12:paeg15:page13:page7:page9:page17:page8:page16"/>
   </folder>
-  <file name="index.html" crc="3867886566" seo="true" mt="1618928014861" redirect="true"/>
+  <file name="index.html" crc="380344202" seo="true" mt="1619035954165" redirect="true"/>
   <file name="page1.html" crc="104883751" seo="true" mt="1618928029025" redirect="true"/>
   <file name="page2.html" crc="3879228414" seo="true" mt="1618927956195" redirect="true"/>
   <file name="page5.html" crc="4125408114" seo="true" mt="1618927985635" redirect="true"/>
