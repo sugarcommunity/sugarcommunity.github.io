@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sugarcommunity.github.io" resolutions="1x" timestamp="1619036761983">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sugarcommunity.github.io" resolutions="1x" timestamp="1619037344843">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="page14.css" crc="242204205" ref="page14"/>
@@ -18,7 +18,7 @@
     <file name="page12.css" crc="3855481343" ref="page12"/>
     <file name="page8.css" crc="376075874" ref="page8"/>
     <file name="page1.css" crc="4163941327" ref="page1"/>
-    <file name="page1-copy.css" crc="4104355732" ref="page1-copy"/>
+    <file name="page1-copy.css" crc="226029045" ref="page1-copy"/>
     <file name="smart-phone-version.css" crc="3856665854" ref="smart-phone-version"/>
   </folder>
   <folder name="scripts">
@@ -47,5 +47,5 @@
   <file name="page8.html" crc="181952139" seo="true" mt="1618928001946" redirect="true"/>
   <file name="page16.html" crc="216969159" seo="true" mt="1618928049132" redirect="true"/>
   <file name="smart-phone-version.html" crc="4025026021" seo="true" mt="1619036754837" redirect="true"/>
-  <file name="page1-copy.html" crc="3903063896" seo="true" mt="1619036388644" redirect="true"/>
+  <file name="page1-copy.html" crc="4010278809" seo="true" mt="1619037330519" redirect="true"/>
 </manifest>
