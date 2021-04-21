@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sugarcommunity.github.io" resolutions="1x" timestamp="1619042108769">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sugarcommunity.github.io" resolutions="1x" timestamp="1619042499205">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="page14.css" crc="242204205" ref="page14"/>
@@ -22,7 +22,7 @@
     <file name="page10-copy.css" crc="63492639" ref="page10-copy"/>
     <file name="page2-copy.css" crc="4155790221" ref="page2-copy"/>
     <file name="page3.css" crc="360834634" ref="page3"/>
-    <file name="page3-copy.css" crc="156041768" ref="page3-copy"/>
+    <file name="page3-copy.css" crc="10855585" ref="page3-copy"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:page1:page2:page5:page4:page14:page6:page10:page11:page12:paeg15:page13:page7:page17:page8:page16:smart-phone-version:page1-copy:page10-copy:page2-copy:page3:page3-copy"/>
@@ -49,9 +49,9 @@
   <file name="page8.html" crc="3861428861" seo="true" mt="1619040018097" redirect="true"/>
   <file name="page16.html" crc="216969159" seo="true" mt="1618928049132" redirect="true"/>
   <file name="smart-phone-version.html" crc="3861273166" seo="true" mt="1619039917744" redirect="true"/>
-  <file name="page1-copy.html" crc="4081565666" seo="true" mt="1619040283405" redirect="true"/>
+  <file name="page1-copy.html" crc="3831968524" seo="true" mt="1619042172059" redirect="true"/>
   <file name="page10-copy.html" crc="163551030" seo="true" mt="1619038456169" redirect="true"/>
   <file name="page2-copy.html" crc="48528042" seo="true" mt="1619039766310" redirect="true"/>
   <file name="page3.html" crc="470145619" seo="true" mt="1619039997238" redirect="true"/>
-  <file name="page3-copy.html" crc="4264604787" seo="true" mt="1619042096939" redirect="true"/>
+  <file name="page3-copy.html" crc="4143688536" seo="true" mt="1619042453238" redirect="true"/>
 </manifest>
