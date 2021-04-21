@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sugarcommunity.github.io" resolutions="1x" timestamp="1619046328389">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sugarcommunity.github.io" resolutions="1x" timestamp="1619047756559">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="page2.css" crc="3815890099" ref="page2"/>
@@ -28,7 +28,7 @@
     <file name="page9-copy.css" crc="63492639" ref="page9-copy"/>
     <file name="page15-copy.css" crc="146021619" ref="page15-copy"/>
     <file name="page16-copy.css" crc="3845584725" ref="page16-copy"/>
-    <file name="page11-copy.css" crc="4167057805" ref="page11-copy"/>
+    <file name="page11-copy.css" crc="3920324040" ref="page11-copy"/>
     <file name="page13-copy.css" crc="301968197" ref="page13-copy"/>
     <file name="paeg14.css" crc="4151219478" ref="paeg14"/>
     <file name="paeg14-copy.css" crc="3968833542" ref="paeg14-copy"/>
@@ -62,7 +62,7 @@
   <file name="page10-copy.html" crc="290562231" seo="true" mt="1619045955226" redirect="true"/>
   <file name="page2-copy.html" crc="48528042" seo="true" mt="1619039766310" redirect="true"/>
   <file name="page3.html" crc="470145619" seo="true" mt="1619039997238" redirect="true"/>
-  <file name="page3-copy.html" crc="3770209321" seo="true" mt="1619045703677" redirect="true"/>
+  <file name="page3-copy.html" crc="3947361113" seo="true" mt="1619046528707" redirect="true"/>
   <file name="page4-copy.html" crc="4038042668" seo="true" mt="1619045719326" redirect="true"/>
   <file name="page5-copy.html" crc="3775036286" seo="true" mt="1619044786276" redirect="true"/>
   <file name="page6-copy.html" crc="308671695" seo="true" mt="1619045289366" redirect="true"/>
@@ -72,7 +72,7 @@
   <file name="paeg14.html" crc="4009407126" seo="true" mt="1619045814181" redirect="true"/>
   <file name="page15.html" crc="3954627308" seo="true" mt="1619045818241" redirect="true"/>
   <file name="page9-copy.html" crc="4195163572" seo="true" mt="1619045850319" redirect="true"/>
-  <file name="page11-copy.html" crc="118922381" seo="true" mt="1619045857872" redirect="true"/>
+  <file name="page11-copy.html" crc="453958671" seo="true" mt="1619047728739" redirect="true"/>
   <file name="page12-copy.html" crc="229652279" seo="true" mt="1619045863675" redirect="true"/>
   <file name="page13-copy.html" crc="4199491169" seo="true" mt="1619045869736" redirect="true"/>
   <file name="paeg14-copy.html" crc="255845287" seo="true" mt="1619045836025" redirect="true"/>
