@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sugarcommunity.github.io" resolutions="1x" timestamp="1619050383809">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sugarcommunity.github.io" resolutions="1x" timestamp="1619050550809">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="page2.css" crc="3815890099" ref="page2"/>
@@ -16,7 +16,7 @@
     <file name="page1.css" crc="4232497400" ref="page1"/>
     <file name="page1-copy.css" crc="4293389769" ref="page1-copy"/>
     <file name="smart-phone-version.css" crc="3856665854" ref="smart-phone-version"/>
-    <file name="page10-copy.css" crc="4242913993" ref="page10-copy"/>
+    <file name="page10-copy.css" crc="148187037" ref="page10-copy"/>
     <file name="page2-copy.css" crc="4130677154" ref="page2-copy"/>
     <file name="page3.css" crc="360834634" ref="page3"/>
     <file name="page3-copy.css" crc="4285703496" ref="page3-copy"/>
@@ -31,7 +31,7 @@
     <file name="page11-copy.css" crc="469615371" ref="page11-copy"/>
     <file name="page13-copy.css" crc="11561622" ref="page13-copy"/>
     <file name="paeg14.css" crc="4151219478" ref="paeg14"/>
-    <file name="paeg14-copy.css" crc="4148485748" ref="paeg14-copy"/>
+    <file name="paeg14-copy.css" crc="503986394" ref="paeg14-copy"/>
     <file name="page15.css" crc="3845428400" ref="page15"/>
     <file name="page12-copy.css" crc="475401837" ref="page12-copy"/>
     <file name="page9.css" crc="491198641" ref="page9"/>
@@ -59,7 +59,7 @@
   <file name="page16.html" crc="4059965115" seo="true" mt="1619045826608" redirect="true"/>
   <file name="smart-phone-version.html" crc="4089581029" seo="true" mt="1619045850317" redirect="true"/>
   <file name="page1-copy.html" crc="453962083" seo="true" mt="1619046304325" redirect="true"/>
-  <file name="page10-copy.html" crc="476481441" seo="true" mt="1619048828598" redirect="true"/>
+  <file name="page10-copy.html" crc="3911199429" seo="true" mt="1619050445646" redirect="true"/>
   <file name="page2-copy.html" crc="3964894715" seo="true" mt="1619048859673" redirect="true"/>
   <file name="page3.html" crc="470145619" seo="true" mt="1619039997238" redirect="true"/>
   <file name="page3-copy.html" crc="3947361113" seo="true" mt="1619046528707" redirect="true"/>
@@ -75,7 +75,7 @@
   <file name="page11-copy.html" crc="4027461094" seo="true" mt="1619049963988" redirect="true"/>
   <file name="page12-copy.html" crc="4204021155" seo="true" mt="1619050027964" redirect="true"/>
   <file name="page13-copy.html" crc="115267582" seo="true" mt="1619050149089" redirect="true"/>
-  <file name="paeg14-copy.html" crc="186280836" seo="true" mt="1619050252956" redirect="true"/>
+  <file name="paeg14-copy.html" crc="464397892" seo="true" mt="1619050458765" redirect="true"/>
   <file name="page15-copy.html" crc="96102671" seo="true" mt="1619049352284" redirect="true"/>
   <file name="page16-copy.html" crc="3975220230" seo="true" mt="1619049434793" redirect="true"/>
 </manifest>
