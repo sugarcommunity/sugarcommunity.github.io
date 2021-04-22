@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sugarcommunity.github.io" resolutions="1x" timestamp="1619051063586">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sugarcommunity.github.io" resolutions="1x" timestamp="1619117693838">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="page2.css" crc="3815890099" ref="page2"/>
@@ -10,12 +10,12 @@
     <file name="page7.css" crc="4156824153" ref="page7"/>
     <file name="page16.css" crc="207024825" ref="page16"/>
     <file name="page11.css" crc="4087739435" ref="page11"/>
-    <file name="index.css" crc="360741738" ref="index"/>
+    <file name="index.css" crc="3919395821" ref="index"/>
     <file name="page12.css" crc="336864046" ref="page12"/>
     <file name="page8.css" crc="497484727" ref="page8"/>
-    <file name="page1.css" crc="4232497400" ref="page1"/>
-    <file name="page1-copy.css" crc="4293389769" ref="page1-copy"/>
-    <file name="smart-phone-version.css" crc="3856665854" ref="smart-phone-version"/>
+    <file name="page1.css" crc="4073745825" ref="page1"/>
+    <file name="page1-copy.css" crc="3850372623" ref="page1-copy"/>
+    <file name="smart-phone-version.css" crc="247409710" ref="smart-phone-version"/>
     <file name="page10-copy.css" crc="148187037" ref="page10-copy"/>
     <file name="page2-copy.css" crc="4130677154" ref="page2-copy"/>
     <file name="page3.css" crc="360834634" ref="page3"/>
@@ -25,7 +25,7 @@
     <file name="page6-copy.css" crc="167243003" ref="page6-copy"/>
     <file name="page5-copy.css" crc="355184206" ref="page5-copy"/>
     <file name="page7-copy.css" crc="211635962" ref="page7-copy"/>
-    <file name="page9-copy.css" crc="63492639" ref="page9-copy"/>
+    <file name="page9-copy.css" crc="200214743" ref="page9-copy"/>
     <file name="page15-copy.css" crc="133451701" ref="page15-copy"/>
     <file name="page16-copy.css" crc="4051552687" ref="page16-copy"/>
     <file name="page11-copy.css" crc="469615371" ref="page11-copy"/>
@@ -34,18 +34,19 @@
     <file name="paeg14-copy.css" crc="503986394" ref="paeg14-copy"/>
     <file name="page15.css" crc="3845428400" ref="page15"/>
     <file name="page12-copy.css" crc="475401837" ref="page12-copy"/>
-    <file name="page9.css" crc="491198641" ref="page9"/>
+    <file name="page9.css" crc="184439685" ref="page9"/>
+    <file name="paeg17.css" crc="167646882" ref="paeg17"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:page1:page2:page5:page4:page6:page10:page11:page12:page13:page7:page8:page16:smart-phone-version:page1-copy:page10-copy:page2-copy:page3:page3-copy:page4-copy:page5-copy:page6-copy:page7-copy:page8-copy:page9:paeg14:page15:page9-copy:page11-copy:page12-copy:page13-copy:paeg14-copy:page15-copy:page16-copy"/>
-    <file name="museutils.js" crc="3803043152" ref="index:page1:page2:page5:page4:page6:page10:page11:page12:page13:page7:page8:page16:smart-phone-version:page1-copy:page10-copy:page2-copy:page3:page3-copy:page4-copy:page5-copy:page6-copy:page7-copy:page8-copy:page9:paeg14:page15:page9-copy:page11-copy:page12-copy:page13-copy:paeg14-copy:page15-copy:page16-copy"/>
-    <file name="whatinput.js" crc="86476730" ref="index:page1:page2:page5:page4:page6:page10:page11:page12:page13:page7:page8:page16:smart-phone-version:page1-copy:page10-copy:page2-copy:page3:page3-copy:page4-copy:page5-copy:page6-copy:page7-copy:page8-copy:page9:paeg14:page15:page9-copy:page11-copy:page12-copy:page13-copy:paeg14-copy:page15-copy:page16-copy"/>
-    <file name="museconfig.js" crc="380897831" ref="index:page1:page2:page5:page4:page6:page10:page11:page12:page13:page7:page8:page16:smart-phone-version:page1-copy:page10-copy:page2-copy:page3:page3-copy:page4-copy:page5-copy:page6-copy:page7-copy:page8-copy:page9:paeg14:page15:page9-copy:page11-copy:page12-copy:page13-copy:paeg14-copy:page15-copy:page16-copy"/>
-    <file name="jquery.watch.js" crc="99325471" ref="index:page1:page2:page5:page4:page6:page10:page11:page12:page13:page7:page8:page16:smart-phone-version:page1-copy:page10-copy:page2-copy:page3:page3-copy:page4-copy:page5-copy:page6-copy:page7-copy:page8-copy:page9:paeg14:page15:page9-copy:page11-copy:page12-copy:page13-copy:paeg14-copy:page15-copy:page16-copy"/>
-    <file name="require.js" crc="4157109226" ref="index:page1:page2:page5:page4:page6:page10:page11:page12:page13:page7:page8:page16:smart-phone-version:page1-copy:page10-copy:page2-copy:page3:page3-copy:page4-copy:page5-copy:page6-copy:page7-copy:page8-copy:page9:paeg14:page15:page9-copy:page11-copy:page12-copy:page13-copy:paeg14-copy:page15-copy:page16-copy"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:page1:page2:page5:page4:page6:page10:page11:page12:page13:page7:page8:page16:smart-phone-version:page1-copy:page10-copy:page2-copy:page3:page3-copy:page4-copy:page5-copy:page6-copy:page7-copy:page8-copy:page9:paeg14:page15:page9-copy:page11-copy:page12-copy:page13-copy:paeg14-copy:page15-copy:page16-copy:paeg17"/>
+    <file name="museutils.js" crc="3803043152" ref="index:page1:page2:page5:page4:page6:page10:page11:page12:page13:page7:page8:page16:smart-phone-version:page1-copy:page10-copy:page2-copy:page3:page3-copy:page4-copy:page5-copy:page6-copy:page7-copy:page8-copy:page9:paeg14:page15:page9-copy:page11-copy:page12-copy:page13-copy:paeg14-copy:page15-copy:page16-copy:paeg17"/>
+    <file name="whatinput.js" crc="86476730" ref="index:page1:page2:page5:page4:page6:page10:page11:page12:page13:page7:page8:page16:smart-phone-version:page1-copy:page10-copy:page2-copy:page3:page3-copy:page4-copy:page5-copy:page6-copy:page7-copy:page8-copy:page9:paeg14:page15:page9-copy:page11-copy:page12-copy:page13-copy:paeg14-copy:page15-copy:page16-copy:paeg17"/>
+    <file name="museconfig.js" crc="380897831" ref="index:page1:page2:page5:page4:page6:page10:page11:page12:page13:page7:page8:page16:smart-phone-version:page1-copy:page10-copy:page2-copy:page3:page3-copy:page4-copy:page5-copy:page6-copy:page7-copy:page8-copy:page9:paeg14:page15:page9-copy:page11-copy:page12-copy:page13-copy:paeg14-copy:page15-copy:page16-copy:paeg17"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:page1:page2:page5:page4:page6:page10:page11:page12:page13:page7:page8:page16:smart-phone-version:page1-copy:page10-copy:page2-copy:page3:page3-copy:page4-copy:page5-copy:page6-copy:page7-copy:page8-copy:page9:paeg14:page15:page9-copy:page11-copy:page12-copy:page13-copy:paeg14-copy:page15-copy:page16-copy:paeg17"/>
+    <file name="require.js" crc="4157109226" ref="index:page1:page2:page5:page4:page6:page10:page11:page12:page13:page7:page8:page16:smart-phone-version:page1-copy:page10-copy:page2-copy:page3:page3-copy:page4-copy:page5-copy:page6-copy:page7-copy:page8-copy:page9:paeg14:page15:page9-copy:page11-copy:page12-copy:page13-copy:paeg14-copy:page15-copy:page16-copy:paeg17"/>
   </folder>
-  <file name="index.html" crc="254094838" seo="true" mt="1619045780793" redirect="true"/>
-  <file name="page1.html" crc="4112515570" seo="true" mt="1619040313270" redirect="true"/>
+  <file name="index.html" crc="3895665626" seo="true" mt="1619117506298" redirect="true"/>
+  <file name="page1.html" crc="411187463" seo="true" mt="1619117350834" redirect="true"/>
   <file name="page2.html" crc="3879228414" seo="true" mt="1618927956195" redirect="true"/>
   <file name="page5.html" crc="4184456494" seo="true" mt="1619040007534" redirect="true"/>
   <file name="page4.html" crc="3918849760" seo="true" mt="1619040000172" redirect="true"/>
@@ -55,10 +56,10 @@
   <file name="page12.html" crc="513941416" seo="true" mt="1619045805123" redirect="true"/>
   <file name="page13.html" crc="4285865381" seo="true" mt="1619045809752" redirect="true"/>
   <file name="page7.html" crc="375139736" seo="true" mt="1619040014650" redirect="true"/>
-  <file name="page8.html" crc="3861428861" seo="true" mt="1619040018097" redirect="true"/>
+  <file name="page8.html" crc="123824190" seo="true" mt="1619114939290" redirect="true"/>
   <file name="page16.html" crc="4059965115" seo="true" mt="1619045826608" redirect="true"/>
-  <file name="smart-phone-version.html" crc="4089581029" seo="true" mt="1619045850317" redirect="true"/>
-  <file name="page1-copy.html" crc="453962083" seo="true" mt="1619046304325" redirect="true"/>
+  <file name="smart-phone-version.html" crc="444424124" seo="true" mt="1619117523914" redirect="true"/>
+  <file name="page1-copy.html" crc="3918006982" seo="true" mt="1619117367907" redirect="true"/>
   <file name="page10-copy.html" crc="3911199429" seo="true" mt="1619050445646" redirect="true"/>
   <file name="page2-copy.html" crc="3964894715" seo="true" mt="1619048859673" redirect="true"/>
   <file name="page3.html" crc="470145619" seo="true" mt="1619039997238" redirect="true"/>
@@ -68,14 +69,15 @@
   <file name="page6-copy.html" crc="308671695" seo="true" mt="1619045289366" redirect="true"/>
   <file name="page7-copy.html" crc="4241271510" seo="true" mt="1619051004200" redirect="true"/>
   <file name="page8-copy.html" crc="3873138823" seo="true" mt="1619051059568" redirect="true"/>
-  <file name="page9.html" crc="81404104" seo="true" mt="1619045826606" redirect="true"/>
+  <file name="page9.html" crc="181566772" seo="true" mt="1619117606864" redirect="true"/>
   <file name="paeg14.html" crc="4009407126" seo="true" mt="1619045814181" redirect="true"/>
   <file name="page15.html" crc="3954627308" seo="true" mt="1619045818241" redirect="true"/>
-  <file name="page9-copy.html" crc="4189668037" seo="true" mt="1619049742565" redirect="true"/>
+  <file name="page9-copy.html" crc="4032565309" seo="true" mt="1619117621697" redirect="true"/>
   <file name="page11-copy.html" crc="4027461094" seo="true" mt="1619049963988" redirect="true"/>
   <file name="page12-copy.html" crc="4204021155" seo="true" mt="1619050027964" redirect="true"/>
   <file name="page13-copy.html" crc="115267582" seo="true" mt="1619050149089" redirect="true"/>
   <file name="paeg14-copy.html" crc="464397892" seo="true" mt="1619050458765" redirect="true"/>
   <file name="page15-copy.html" crc="96102671" seo="true" mt="1619049352284" redirect="true"/>
   <file name="page16-copy.html" crc="3975220230" seo="true" mt="1619049434793" redirect="true"/>
+  <file name="paeg17.html" crc="24138469" seo="true" mt="1619117436520" redirect="true"/>
 </manifest>
