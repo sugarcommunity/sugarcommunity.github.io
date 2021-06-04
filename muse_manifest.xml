@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sugarcommunity.github.io" resolutions="1x" timestamp="1622834084577">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sugarcommunity.github.io" resolutions="1x" timestamp="1622834676166">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="page9-copy.css" crc="3957761549" ref="page9-copy"/>
@@ -12,7 +12,7 @@
     <file name="page4-copy.css" crc="360079842" ref="page4-copy"/>
     <file name="paeg14.css" crc="4952656" ref="paeg14"/>
     <file name="page5-copy.css" crc="51994193" ref="page5-copy"/>
-    <file name="paeg18.css" crc="4056834531" ref="paeg18"/>
+    <file name="paeg18.css" crc="143938279" ref="paeg18"/>
     <file name="page12.css" crc="3898162815" ref="page12"/>
     <file name="page7-copy.css" crc="127385364" ref="page7-copy"/>
     <file name="page1.css" crc="4070439418" ref="page1"/>
@@ -81,5 +81,5 @@
   <file name="page16-copy.html" crc="4099081228" seo="true" mt="1619694692800" redirect="true"/>
   <file name="page10-copy.html" crc="3769639601" seo="true" mt="1619050445646" redirect="true"/>
   <file name="paeg17.html" crc="4140233918" seo="true" mt="1619117436520" redirect="true"/>
-  <file name="paeg18.html" crc="4008006628" seo="true" mt="1622833901082" redirect="true"/>
+  <file name="paeg18.html" crc="3887056211" seo="true" mt="1622834672728" redirect="true"/>
 </manifest>
