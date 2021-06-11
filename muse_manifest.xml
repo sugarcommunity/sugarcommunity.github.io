@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sugarcommunity.github.io" resolutions="1x" timestamp="1623317729018">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sugarcommunity.github.io" resolutions="1x" timestamp="1623379117417">
   <folder name="images">
     <file name="449974.jpg" crc="473676835" seo="true" ref="av-1">
       <caption webpage="av-1" alt=""/>
@@ -48,7 +48,7 @@
     <file name="page9.css" crc="383975318" ref="page9"/>
     <file name="page1-copy.css" crc="4021346265" ref="page1-copy"/>
     <file name="page15-copy.css" crc="3787054935" ref="page15-copy"/>
-    <file name="table-of-contents.css" crc="4141479234" ref="table-of-contents"/>
+    <file name="table-of-contents.css" crc="307599417" ref="table-of-contents"/>
     <file name="av-1.css" crc="4284701407" ref="av-1"/>
     <file name="av-2.css" crc="4081617619" ref="av-2"/>
     <file name="av-3.css" crc="3801260985" ref="av-3"/>
@@ -97,7 +97,7 @@
   <file name="page10-copy.html" crc="3769639601" seo="true" mt="1619050445646" redirect="true"/>
   <file name="paeg17.html" crc="4140233918" seo="true" mt="1619117436520" redirect="true"/>
   <file name="paeg18.html" crc="3887056211" seo="true" mt="1622834672728" redirect="true"/>
-  <file name="table-of-contents.html" crc="17561264" seo="true" mt="1623115946869" redirect="true"/>
+  <file name="table-of-contents.html" crc="3910472187" seo="true" mt="1623379107872" redirect="true"/>
   <file name="av-1.html" crc="285875811" seo="true" mt="1622952532290" redirect="true"/>
   <file name="av-2.html" crc="3793282468" seo="true" mt="1623115946871" redirect="true"/>
   <file name="av-3.html" crc="300971644" seo="true" mt="1623317724098" redirect="true"/>
