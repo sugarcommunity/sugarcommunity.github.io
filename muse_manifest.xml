@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sugarcommunity.github.io" resolutions="1x" timestamp="1623379117417">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sugarcommunity.github.io" resolutions="1x" timestamp="1623568376778">
   <folder name="images">
     <file name="449974.jpg" crc="473676835" seo="true" ref="av-1">
       <caption webpage="av-1" alt=""/>
@@ -52,14 +52,15 @@
     <file name="av-1.css" crc="4284701407" ref="av-1"/>
     <file name="av-2.css" crc="4081617619" ref="av-2"/>
     <file name="av-3.css" crc="3801260985" ref="av-3"/>
+    <file name="av-4.css" crc="140832357" ref="av-4"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:page1:page2:page4:page3:page13:page5:page9:page10:page11:paeg14:page12:page6:page8:page16:page7:page15:smart-phone-version:page1-copy:page9-copy:page2-copy:page3-copy:page4-copy:page5-copy:page6-copy:page7-copy:page8-copy:page11-copy:page12-copy:page13-copy:paeg14-copy:page15-copy:page16-copy:page10-copy:paeg17:paeg18:table-of-contents:av-1:av-2:av-3"/>
-    <file name="museutils.js" crc="3803043152" ref="index:page1:page2:page4:page3:page13:page5:page9:page10:page11:paeg14:page12:page6:page8:page16:page7:page15:smart-phone-version:page1-copy:page9-copy:page2-copy:page3-copy:page4-copy:page5-copy:page6-copy:page7-copy:page8-copy:page11-copy:page12-copy:page13-copy:paeg14-copy:page15-copy:page16-copy:page10-copy:paeg17:paeg18:table-of-contents:av-1:av-2:av-3"/>
-    <file name="whatinput.js" crc="86476730" ref="index:page1:page2:page4:page3:page13:page5:page9:page10:page11:paeg14:page12:page6:page8:page16:page7:page15:smart-phone-version:page1-copy:page9-copy:page2-copy:page3-copy:page4-copy:page5-copy:page6-copy:page7-copy:page8-copy:page11-copy:page12-copy:page13-copy:paeg14-copy:page15-copy:page16-copy:page10-copy:paeg17:paeg18:table-of-contents:av-1:av-2:av-3"/>
-    <file name="museconfig.js" crc="380897831" ref="index:page1:page2:page4:page3:page13:page5:page9:page10:page11:paeg14:page12:page6:page8:page16:page7:page15:smart-phone-version:page1-copy:page9-copy:page2-copy:page3-copy:page4-copy:page5-copy:page6-copy:page7-copy:page8-copy:page11-copy:page12-copy:page13-copy:paeg14-copy:page15-copy:page16-copy:page10-copy:paeg17:paeg18:table-of-contents:av-1:av-2:av-3"/>
-    <file name="jquery.watch.js" crc="99325471" ref="index:page1:page2:page4:page3:page13:page5:page9:page10:page11:paeg14:page12:page6:page8:page16:page7:page15:smart-phone-version:page1-copy:page9-copy:page2-copy:page3-copy:page4-copy:page5-copy:page6-copy:page7-copy:page8-copy:page11-copy:page12-copy:page13-copy:paeg14-copy:page15-copy:page16-copy:page10-copy:paeg17:paeg18:table-of-contents:av-1:av-2:av-3"/>
-    <file name="require.js" crc="4157109226" ref="index:page1:page2:page4:page3:page13:page5:page9:page10:page11:paeg14:page12:page6:page8:page16:page7:page15:smart-phone-version:page1-copy:page9-copy:page2-copy:page3-copy:page4-copy:page5-copy:page6-copy:page7-copy:page8-copy:page11-copy:page12-copy:page13-copy:paeg14-copy:page15-copy:page16-copy:page10-copy:paeg17:paeg18:table-of-contents:av-1:av-2:av-3"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:page1:page2:page4:page3:page13:page5:page9:page10:page11:paeg14:page12:page6:page8:page16:page7:page15:smart-phone-version:page1-copy:page9-copy:page2-copy:page3-copy:page4-copy:page5-copy:page6-copy:page7-copy:page8-copy:page11-copy:page12-copy:page13-copy:paeg14-copy:page15-copy:page16-copy:page10-copy:paeg17:paeg18:table-of-contents:av-1:av-2:av-3:av-4"/>
+    <file name="museutils.js" crc="3803043152" ref="index:page1:page2:page4:page3:page13:page5:page9:page10:page11:paeg14:page12:page6:page8:page16:page7:page15:smart-phone-version:page1-copy:page9-copy:page2-copy:page3-copy:page4-copy:page5-copy:page6-copy:page7-copy:page8-copy:page11-copy:page12-copy:page13-copy:paeg14-copy:page15-copy:page16-copy:page10-copy:paeg17:paeg18:table-of-contents:av-1:av-2:av-3:av-4"/>
+    <file name="whatinput.js" crc="86476730" ref="index:page1:page2:page4:page3:page13:page5:page9:page10:page11:paeg14:page12:page6:page8:page16:page7:page15:smart-phone-version:page1-copy:page9-copy:page2-copy:page3-copy:page4-copy:page5-copy:page6-copy:page7-copy:page8-copy:page11-copy:page12-copy:page13-copy:paeg14-copy:page15-copy:page16-copy:page10-copy:paeg17:paeg18:table-of-contents:av-1:av-2:av-3:av-4"/>
+    <file name="museconfig.js" crc="380897831" ref="index:page1:page2:page4:page3:page13:page5:page9:page10:page11:paeg14:page12:page6:page8:page16:page7:page15:smart-phone-version:page1-copy:page9-copy:page2-copy:page3-copy:page4-copy:page5-copy:page6-copy:page7-copy:page8-copy:page11-copy:page12-copy:page13-copy:paeg14-copy:page15-copy:page16-copy:page10-copy:paeg17:paeg18:table-of-contents:av-1:av-2:av-3:av-4"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:page1:page2:page4:page3:page13:page5:page9:page10:page11:paeg14:page12:page6:page8:page16:page7:page15:smart-phone-version:page1-copy:page9-copy:page2-copy:page3-copy:page4-copy:page5-copy:page6-copy:page7-copy:page8-copy:page11-copy:page12-copy:page13-copy:paeg14-copy:page15-copy:page16-copy:page10-copy:paeg17:paeg18:table-of-contents:av-1:av-2:av-3:av-4"/>
+    <file name="require.js" crc="4157109226" ref="index:page1:page2:page4:page3:page13:page5:page9:page10:page11:paeg14:page12:page6:page8:page16:page7:page15:smart-phone-version:page1-copy:page9-copy:page2-copy:page3-copy:page4-copy:page5-copy:page6-copy:page7-copy:page8-copy:page11-copy:page12-copy:page13-copy:paeg14-copy:page15-copy:page16-copy:page10-copy:paeg17:paeg18:table-of-contents:av-1:av-2:av-3:av-4"/>
   </folder>
   <file name="index.html" crc="69788881" seo="true" mt="1619117506298" redirect="true"/>
   <file name="page1.html" crc="286382637" seo="true" mt="1619120410943" redirect="true"/>
@@ -101,4 +102,5 @@
   <file name="av-1.html" crc="285875811" seo="true" mt="1622952532290" redirect="true"/>
   <file name="av-2.html" crc="3793282468" seo="true" mt="1623115946871" redirect="true"/>
   <file name="av-3.html" crc="300971644" seo="true" mt="1623317724098" redirect="true"/>
+  <file name="av-4.html" crc="232214321" seo="true" mt="1623568364076" redirect="true"/>
 </manifest>
