@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sugarcommunity.github.io" resolutions="1x" timestamp="1626917194191">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sugarcommunity.github.io" resolutions="1x" timestamp="1626917393137">
   <folder name="images">
     <file name="449974.jpg" crc="473676835" seo="true" ref="av-1">
       <caption webpage="av-1" alt=""/>
@@ -69,7 +69,7 @@
     <file name="av5-c.css" crc="3793768371" ref="av5-c"/>
     <file name="av-1-c.css" crc="271629629" ref="av-1-c"/>
     <file name="av7-c.css" crc="86450872" ref="av7-c"/>
-    <file name="secret-page-smv.css" crc="4162081067" ref="secret-page-smv"/>
+    <file name="secret-page-smv.css" crc="42353375" ref="secret-page-smv"/>
     <file name="secret-page.css" crc="274707465" ref="secret-page"/>
   </folder>
   <folder name="scripts">
@@ -135,5 +135,5 @@
   <file name="av6-c.html" crc="4173472345" seo="true" mt="1626914118028" redirect="true"/>
   <file name="av7-c.html" crc="3828033015" seo="true" mt="1626914136726" redirect="true"/>
   <file name="secret-page.html" crc="447586444" seo="true" mt="1626917173792" redirect="true"/>
-  <file name="secret-page-smv.html" crc="344141982" seo="true" mt="1626917184184" redirect="true"/>
+  <file name="secret-page-smv.html" crc="231901851" seo="true" mt="1626917384110" redirect="true"/>
 </manifest>
