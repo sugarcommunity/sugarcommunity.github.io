@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sugarcommunity.github.io" resolutions="1x" timestamp="1626914148358">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sugarcommunity.github.io" resolutions="1x" timestamp="1626917194191">
   <folder name="images">
     <file name="449974.jpg" crc="473676835" seo="true" ref="av-1">
       <caption webpage="av-1" alt=""/>
@@ -60,10 +60,8 @@
     <file name="av-6.css" crc="4109188766" ref="av-6"/>
     <file name="av-7.css" crc="354785072" ref="av-7"/>
     <file name="membership-page.css" crc="267490019" ref="membership-page"/>
-    <file name="page3-copy-2.css" crc="4024627984" ref="page3-copy-2"/>
     <file name="adult.css" crc="75723069" ref="adult"/>
     <file name="smart-phone-version-copy.css" crc="142018021" ref="smart-phone-version-copy"/>
-    <file name="page3-copy-copy.css" crc="4162081067" ref="page3-copy-copy"/>
     <file name="av2-c.css" crc="3887481108" ref="av2-c"/>
     <file name="av6-c.css" crc="4112867899" ref="av6-c"/>
     <file name="av3-c.css" crc="3814042058" ref="av3-c"/>
@@ -71,14 +69,16 @@
     <file name="av5-c.css" crc="3793768371" ref="av5-c"/>
     <file name="av-1-c.css" crc="271629629" ref="av-1-c"/>
     <file name="av7-c.css" crc="86450872" ref="av7-c"/>
+    <file name="secret-page-smv.css" crc="4162081067" ref="secret-page-smv"/>
+    <file name="secret-page.css" crc="274707465" ref="secret-page"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:page1:page2:page4:page3:page13:page5:page9:page10:page11:paeg14:page12:page6:page8:page16:page7:page15:smart-phone-version:page1-copy:page9-copy:page2-copy:page3-copy:page4-copy:page5-copy:page6-copy:page7-copy:page8-copy:page11-copy:page12-copy:page13-copy:paeg14-copy:page15-copy:page16-copy:page10-copy:paeg17:paeg18:table-of-contents:av-1:av-2:av-3:av-4:av-5:av-6:av-7:membership-page:page3-copy-2:adult:smart-phone-version-copy:page3-copy-copy:av-1-c:av2-c:av3-c:av4-c:av5-c:av6-c:av7-c"/>
-    <file name="museutils.js" crc="3803043152" ref="index:page1:page2:page4:page3:page13:page5:page9:page10:page11:paeg14:page12:page6:page8:page16:page7:page15:smart-phone-version:page1-copy:page9-copy:page2-copy:page3-copy:page4-copy:page5-copy:page6-copy:page7-copy:page8-copy:page11-copy:page12-copy:page13-copy:paeg14-copy:page15-copy:page16-copy:page10-copy:paeg17:paeg18:table-of-contents:av-1:av-2:av-3:av-4:av-5:av-6:av-7:membership-page:page3-copy-2:adult:smart-phone-version-copy:page3-copy-copy:av-1-c:av2-c:av3-c:av4-c:av5-c:av6-c:av7-c"/>
-    <file name="whatinput.js" crc="86476730" ref="index:page1:page2:page4:page3:page13:page5:page9:page10:page11:paeg14:page12:page6:page8:page16:page7:page15:smart-phone-version:page1-copy:page9-copy:page2-copy:page3-copy:page4-copy:page5-copy:page6-copy:page7-copy:page8-copy:page11-copy:page12-copy:page13-copy:paeg14-copy:page15-copy:page16-copy:page10-copy:paeg17:paeg18:table-of-contents:av-1:av-2:av-3:av-4:av-5:av-6:av-7:membership-page:page3-copy-2:adult:smart-phone-version-copy:page3-copy-copy:av-1-c:av2-c:av3-c:av4-c:av5-c:av6-c:av7-c"/>
-    <file name="museconfig.js" crc="380897831" ref="index:page1:page2:page4:page3:page13:page5:page9:page10:page11:paeg14:page12:page6:page8:page16:page7:page15:smart-phone-version:page1-copy:page9-copy:page2-copy:page3-copy:page4-copy:page5-copy:page6-copy:page7-copy:page8-copy:page11-copy:page12-copy:page13-copy:paeg14-copy:page15-copy:page16-copy:page10-copy:paeg17:paeg18:table-of-contents:av-1:av-2:av-3:av-4:av-5:av-6:av-7:membership-page:page3-copy-2:adult:smart-phone-version-copy:page3-copy-copy:av-1-c:av2-c:av3-c:av4-c:av5-c:av6-c:av7-c"/>
-    <file name="jquery.watch.js" crc="99325471" ref="index:page1:page2:page4:page3:page13:page5:page9:page10:page11:paeg14:page12:page6:page8:page16:page7:page15:smart-phone-version:page1-copy:page9-copy:page2-copy:page3-copy:page4-copy:page5-copy:page6-copy:page7-copy:page8-copy:page11-copy:page12-copy:page13-copy:paeg14-copy:page15-copy:page16-copy:page10-copy:paeg17:paeg18:table-of-contents:av-1:av-2:av-3:av-4:av-5:av-6:av-7:membership-page:page3-copy-2:adult:smart-phone-version-copy:page3-copy-copy:av-1-c:av2-c:av3-c:av4-c:av5-c:av6-c:av7-c"/>
-    <file name="require.js" crc="4157109226" ref="index:page1:page2:page4:page3:page13:page5:page9:page10:page11:paeg14:page12:page6:page8:page16:page7:page15:smart-phone-version:page1-copy:page9-copy:page2-copy:page3-copy:page4-copy:page5-copy:page6-copy:page7-copy:page8-copy:page11-copy:page12-copy:page13-copy:paeg14-copy:page15-copy:page16-copy:page10-copy:paeg17:paeg18:table-of-contents:av-1:av-2:av-3:av-4:av-5:av-6:av-7:membership-page:page3-copy-2:adult:smart-phone-version-copy:page3-copy-copy:av-1-c:av2-c:av3-c:av4-c:av5-c:av6-c:av7-c"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:page1:page2:page4:page3:page13:page5:page9:page10:page11:paeg14:page12:page6:page8:page16:page7:page15:smart-phone-version:page1-copy:page9-copy:page2-copy:page3-copy:page4-copy:page5-copy:page6-copy:page7-copy:page8-copy:page11-copy:page12-copy:page13-copy:paeg14-copy:page15-copy:page16-copy:page10-copy:paeg17:paeg18:table-of-contents:av-1:av-2:av-3:av-4:av-5:av-6:av-7:membership-page:adult:smart-phone-version-copy:av-1-c:av2-c:av3-c:av4-c:av5-c:av6-c:av7-c:secret-page:secret-page-smv"/>
+    <file name="museutils.js" crc="3803043152" ref="index:page1:page2:page4:page3:page13:page5:page9:page10:page11:paeg14:page12:page6:page8:page16:page7:page15:smart-phone-version:page1-copy:page9-copy:page2-copy:page3-copy:page4-copy:page5-copy:page6-copy:page7-copy:page8-copy:page11-copy:page12-copy:page13-copy:paeg14-copy:page15-copy:page16-copy:page10-copy:paeg17:paeg18:table-of-contents:av-1:av-2:av-3:av-4:av-5:av-6:av-7:membership-page:adult:smart-phone-version-copy:av-1-c:av2-c:av3-c:av4-c:av5-c:av6-c:av7-c:secret-page:secret-page-smv"/>
+    <file name="whatinput.js" crc="86476730" ref="index:page1:page2:page4:page3:page13:page5:page9:page10:page11:paeg14:page12:page6:page8:page16:page7:page15:smart-phone-version:page1-copy:page9-copy:page2-copy:page3-copy:page4-copy:page5-copy:page6-copy:page7-copy:page8-copy:page11-copy:page12-copy:page13-copy:paeg14-copy:page15-copy:page16-copy:page10-copy:paeg17:paeg18:table-of-contents:av-1:av-2:av-3:av-4:av-5:av-6:av-7:membership-page:adult:smart-phone-version-copy:av-1-c:av2-c:av3-c:av4-c:av5-c:av6-c:av7-c:secret-page:secret-page-smv"/>
+    <file name="museconfig.js" crc="380897831" ref="index:page1:page2:page4:page3:page13:page5:page9:page10:page11:paeg14:page12:page6:page8:page16:page7:page15:smart-phone-version:page1-copy:page9-copy:page2-copy:page3-copy:page4-copy:page5-copy:page6-copy:page7-copy:page8-copy:page11-copy:page12-copy:page13-copy:paeg14-copy:page15-copy:page16-copy:page10-copy:paeg17:paeg18:table-of-contents:av-1:av-2:av-3:av-4:av-5:av-6:av-7:membership-page:adult:smart-phone-version-copy:av-1-c:av2-c:av3-c:av4-c:av5-c:av6-c:av7-c:secret-page:secret-page-smv"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:page1:page2:page4:page3:page13:page5:page9:page10:page11:paeg14:page12:page6:page8:page16:page7:page15:smart-phone-version:page1-copy:page9-copy:page2-copy:page3-copy:page4-copy:page5-copy:page6-copy:page7-copy:page8-copy:page11-copy:page12-copy:page13-copy:paeg14-copy:page15-copy:page16-copy:page10-copy:paeg17:paeg18:table-of-contents:av-1:av-2:av-3:av-4:av-5:av-6:av-7:membership-page:adult:smart-phone-version-copy:av-1-c:av2-c:av3-c:av4-c:av5-c:av6-c:av7-c:secret-page:secret-page-smv"/>
+    <file name="require.js" crc="4157109226" ref="index:page1:page2:page4:page3:page13:page5:page9:page10:page11:paeg14:page12:page6:page8:page16:page7:page15:smart-phone-version:page1-copy:page9-copy:page2-copy:page3-copy:page4-copy:page5-copy:page6-copy:page7-copy:page8-copy:page11-copy:page12-copy:page13-copy:paeg14-copy:page15-copy:page16-copy:page10-copy:paeg17:paeg18:table-of-contents:av-1:av-2:av-3:av-4:av-5:av-6:av-7:membership-page:adult:smart-phone-version-copy:av-1-c:av2-c:av3-c:av4-c:av5-c:av6-c:av7-c:secret-page:secret-page-smv"/>
   </folder>
   <file name="index.html" crc="69788881" seo="true" mt="1619117506298" redirect="true"/>
   <file name="page1.html" crc="286382637" seo="true" mt="1619120410943" redirect="true"/>
@@ -125,10 +125,8 @@
   <file name="av-6.html" crc="437391893" seo="true" mt="1623743420021" redirect="true"/>
   <file name="av-7.html" crc="4061410516" seo="true" mt="1623841008898" redirect="true"/>
   <file name="membership-page.html" crc="325284065" seo="true" mt="1624933425095" redirect="true"/>
-  <file name="page3-copy-2.html" crc="4271834826" seo="true" mt="1626912975304" redirect="true"/>
-  <file name="adult.html" crc="3964317292" seo="true" mt="1626913381143" redirect="true"/>
-  <file name="smart-phone-version-copy.html" crc="3831699164" seo="true" mt="1626913765369" redirect="true"/>
-  <file name="page3-copy-copy.html" crc="341339586" seo="true" mt="1626913787602" redirect="true"/>
+  <file name="adult.html" crc="3946675870" seo="true" mt="1626917173787" redirect="true"/>
+  <file name="smart-phone-version-copy.html" crc="3950354084" seo="true" mt="1626917173784" redirect="true"/>
   <file name="av-1-c.html" crc="4281993687" seo="true" mt="1626913982121" redirect="true"/>
   <file name="av2-c.html" crc="4178986391" seo="true" mt="1626914039761" redirect="true"/>
   <file name="av3-c.html" crc="494315266" seo="true" mt="1626914053917" redirect="true"/>
@@ -136,4 +134,6 @@
   <file name="av5-c.html" crc="207808113" seo="true" mt="1626914101221" redirect="true"/>
   <file name="av6-c.html" crc="4173472345" seo="true" mt="1626914118028" redirect="true"/>
   <file name="av7-c.html" crc="3828033015" seo="true" mt="1626914136726" redirect="true"/>
+  <file name="secret-page.html" crc="447586444" seo="true" mt="1626917173792" redirect="true"/>
+  <file name="secret-page-smv.html" crc="344141982" seo="true" mt="1626917184184" redirect="true"/>
 </manifest>
